@@ -76,7 +76,7 @@ PUT _scripts/ml_userriskscore_init_script_&lt;your-space-name&gt;
 
 <div style="margin-left: 40px">   
 <i>uploading ingest pipeline</i>
-   <pre style="margin-top:-2px"><code>PUT _ingest/pipeline/ml_usertriskscore_ingest_pipeline_&lt;your-space-name&gt;
+   <pre style="margin-top:-2px"><code>PUT _ingest/pipeline/ml_userriskscore_ingest_pipeline_&lt;your-space-name&gt;
 {contents of ml_userriskscore_ingest_pipeline.json file}
 </code></pre></div>
 
